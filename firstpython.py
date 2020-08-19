@@ -1,2 +1,2 @@
-# Dispay the putput
+# Dispay the output
 print ( " New Python file" )
